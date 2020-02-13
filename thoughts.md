@@ -6,7 +6,7 @@
 Mode details at:
 https://www.o2moldtesting.com
 
-- Business Name: O2 Mold Testing
-- Address: 3400 Idaho Ave NW , Washington, DC 20016
-- Phone: 202-915-8741
+- **Business Name:** _O2 Mold Testing_
+- **Address:** _3400 Idaho Ave NW , Washington, DC 20016_
+- **Phone:** _202-915-8741_
 
